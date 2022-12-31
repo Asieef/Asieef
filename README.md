@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asieef Kabir
-- 👀 I’m interested in watching thriller movies, big fan of Quentin Tarantino style. I am also into frontend web development (designing web stuff)
+- 👀 Love watching thriller movies, big fan of Quentin Tarantino style. I am also into frontend web development (designing web stuff)
 - 🌱 I’m currently learning advance React & UI/UX fundamentals
 - 📫 You can reach me on my mail: asieef.chowdhury@gmail.com
 
